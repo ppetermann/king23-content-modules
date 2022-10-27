@@ -8,7 +8,6 @@
     "authors": [{ "name": "Peter Petermann", "email": "ppetermann80@gmail.com", "homepage": "https://devedge.eu" }],
 
     "require": {
-        "php": ">=7.2",
         "psr/http-message": "~1.0",
         "psr/container": "~1.0"
     },

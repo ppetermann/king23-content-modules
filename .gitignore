@@ -1,3 +1,4 @@
 vendor/
 cache/templates_c/*
 composer.lock
+.phpunit.result.cache
